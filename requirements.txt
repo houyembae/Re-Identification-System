@@ -1,0 +1,9 @@
+torch
+torchvision
+albumentations
+numpy
+opencv-python
+Pillow
+gdown
+tqdm
+matplotlib
